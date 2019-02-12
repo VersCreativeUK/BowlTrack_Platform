@@ -7,7 +7,8 @@
 Welcome to **bowl**track User Platforms Repository!
 
 ### Note
-**This repository is for any platforms that use the Core BowlTrack plaftorm or API**
+**This repository is for any platforms that use the Core BowlTrack API**
+This does not track changes or issues to any core platform, please see this repo for the core platform: https://github.com/VersCreativeUK/BowlTrack
 
 ## Support
 If you've been directed here for support, please raise an issue via the Issues tab and we will be happy to take a look.

@@ -1,6 +1,6 @@
 ---
 name: Issue Report
-about: Create a report to help us improve
+about: Create a report to help us improve or report an issue
 title: "[ISSUE]"
 labels: 'Status: in_review'
 assignees: VersCreativeUKAutomate
